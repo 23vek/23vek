@@ -30,7 +30,7 @@ let result3 = array.some(function(element,index,selfArray) {return element > 5})
 let result4 = array.includes(1)
 
 // проверка соответствует ли все элементы условию
-let result5 = array.any(function(element,index,selfArray) {return element > 5})
+let result5 = array.every(function(element,index,selfArray) {return element > 5})
 
 
 
