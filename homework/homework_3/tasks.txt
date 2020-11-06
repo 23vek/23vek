@@ -1,0 +1,12 @@
+1) модефицировать homework2 так что бы использовались функции 
+    - sortByAge(peoples)
+    - getRichest(peoples)
+    - getPoorest(peoples)
+    - printPeoples(peoples)
+
+2) добавить функцию bubleSort(numbers)
+3) создать функцию getSexInCorrectForm(sex) которая вернёт пол в нужном формате или null
+    соответствие полов
+        "m", "male","м","муж","мужчина","поцык","пацан" -> "муж."
+        "f", "female","ж","жен","женщина","шалава","дефка" -> "жен."
+        все остальные null 
