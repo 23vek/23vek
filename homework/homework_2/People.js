@@ -43,6 +43,6 @@ let p2 = people[1].cash
 let p3 = people[2].cash
 
 
-console.log( people[0].surname people[0]name[0] people[0]patronymic[0] (people[0].age)- p1 
- people[1].surname people[1].name[0] people[1]patronymic[0] (people[1].age) - p2 
- people[2].surname people[2].name[0] people[2]patronymic[0] (people[2].age) - p2)  
+// console.log( people[0].surname people[0]name[0] people[0]patronymic[0] (people[0].age)- p1 
+//  people[1].surname people[1].name[0] people[1]patronymic[0] (people[1].age) - p2 
+//  people[2].surname people[2].name[0] people[2]patronymic[0] (people[2].age) - p2)  
